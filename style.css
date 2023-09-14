@@ -1,0 +1,89 @@
+.container
+{
+    max-width: 1400px;
+}
+*{
+    color: white;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+  }
+  body
+  {
+    background-color:black;
+    display:grid;
+    justify-content:center;
+  }
+  .row1
+  {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 25px;
+  }
+  .container
+  {
+    background-color: #a67061; 
+    padding:50px;
+  }
+  .icone
+  {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+  }
+  .logo
+  {
+    width: 50px;
+  }
+  .row4
+  {
+    margin-top: 20px;
+  }
+  .row21
+  {
+    display: flex;
+    flex-direction: row;
+  }
+  .column
+  {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+  }
+  .usa
+  {
+    width: 50px;
+    border-radius: 50px;
+  }
+  .row23
+  {
+    display: flex;
+    margin: 30px 0 ;
+    flex-direction: row;
+  }
+  .button
+  {
+    background-color: #ffffff73;
+    padding: 5px 20px;
+    border-radius:40px;
+    display: inline-block;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .button2
+  {
+    display: inline-block;
+    background-color: #ffffff83;
+    padding: 10px 25px;
+    border-radius:20px;
+    
+  }
+ 
+  .farany
+  {
+    width: 150px;
+    height: 50px;
+  }
+  
